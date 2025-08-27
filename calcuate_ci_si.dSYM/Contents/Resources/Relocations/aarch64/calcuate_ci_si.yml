@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/eshanadlakha/Documents/100daysofcode/calcuate_ci_si'
+relocations:     []
+...

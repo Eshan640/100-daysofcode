@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/eshanadlakha/Documents/100daysofcode/check_even_odd_using_if_else'
+relocations:     []
+...
