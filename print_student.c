@@ -9,7 +9,6 @@ Topper: Ravi (Marks: 95)
 
 */
 #include <stdio.h>
-
 struct Stud {
     char nm[40];
     int rno;
